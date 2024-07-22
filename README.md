@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Syponj
-- 👀 I’m interested in Video Games, programming and drawing
-- 🌱 I’m currently learning HTML, CSS and Java Script and C
+- 👀 I’m interested in Video Games, programming, drawing and cybersecurity
+- 🌱 I’m currently learning Python and Java Script.
 
 
 
